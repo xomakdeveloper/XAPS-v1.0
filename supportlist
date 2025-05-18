@@ -1,0 +1,3 @@
+local module = {}
+    module.v1_0 = true
+return module
