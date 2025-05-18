@@ -1,0 +1,9 @@
+local api_module = {}
+	function api_module:LoaderWorkTest()
+		print("[XAPS API] Code loader works successfully")
+	end
+
+	function api_module:LoadCode()
+		print("[XAPS API] no code available")
+	end
+return api_module
